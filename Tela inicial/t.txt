@@ -1,0 +1,63 @@
+# Opção de Fundos
+    if e == 1:
+        print(20 * "-")
+        print("FUNDOS")
+        print(20 * "-")
+        print(fundos)
+        print("Opções: \n"  
+                "1 - adicionar fundos\n"
+                "2 - retirar\n" 
+                "3 - editar\n" 
+                "4 - voltar")
+
+        e = int(input("Escolha uma das opções acima: "))
+
+        #Opções escolhidas de Fundos
+        if e == 1:
+            print("ainda trabalhando nisso")
+        elif e == 2:
+            print("ainda trabalhando nisso 2")
+        elif e == 3:
+            print("ainda trabalhando nisso 3")
+        elif e == 4:
+            print("ainda trabalhando nisso 4")
+            continue
+    elif e == 2:
+        print(20 * "-")
+        print("SAIDAS")
+        print(20 * "-")
+        print(saidas)
+        # Opção de Saidas
+        print("1 - adicionar saidas\n"
+                "2 - retirar saidas\n" 
+                "3 - editar saidas\n" 
+                "4 - voltar")
+        
+        e = int(input("Escolha uma das opções acima: "))
+
+        #Opções escolhidas de Saidas
+        if e == 1:
+            print("ainda trabalhando nisso")
+        elif e == 2:
+            print("ainda trabalhando nisso 2")
+        elif e == 3:
+            print("ainda trabalhando nisso 3")
+        elif e == 4:
+            print("ainda trabalhando nisso 4")
+            continue
+    elif e == 3:
+        print(20 * "-")
+        print("HISTORICO DE TRANSAÇÕES")
+        print(20 * "-")
+        print(historico_transações)
+        # Opção Historico de Transações
+        print("1 - voltar")
+        e = int(input(""))
+        if e == 1:
+            print("ainda trabalhando nisso")
+            continue
+    else:
+        print(20 * "-")
+        print("ERRO")
+        print("Insira um numero valido")
+        print(20 * "-")
