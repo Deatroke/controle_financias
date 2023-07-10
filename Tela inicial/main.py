@@ -1,3 +1,7 @@
+#Pensamento futuro em adicionar uma interface gráfica ao projeto.
+
+
+
 from tkinter import *
 from tkinter import ttk
 

@@ -1,4 +1,0 @@
-criar opção de saida e totais
-fazer o totais somar e subtrair (no caso somar quando for adicionar fundos e subtrair quando for tirar fundos)
-fazer um for para printar os atuais itens que colocamos no dicionario
-e n sei mais oq
